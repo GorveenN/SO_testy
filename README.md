@@ -8,3 +8,4 @@ Tescikii
   ./euronmain 100
   ./euronmain 1000
   ```
+i jeszcze swoje eurony by sie przydało wrzucić do folderu
